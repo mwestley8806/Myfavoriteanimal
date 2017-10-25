@@ -1,0 +1,23 @@
+body{
+    font-size: 20px;
+    color: darkblue;
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-color: lightblue;
+     
+}
+
+.Header{
+    font-size: 45px;
+    color: darkmagenta;
+    font-family: 'Exo 2', sans-serif;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+img{
+    width: 30%;
+    height: auto;
+}
